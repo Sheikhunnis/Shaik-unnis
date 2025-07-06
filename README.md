@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Younus
+# 👋 Hi, I'm Shaik unnis
 
-🎓 B.Tech 3rd Year Student | 💻 Python & ML Enthusiast  
+🎓 B.Tech 4rd Year Student | 💻 Python & ML Enthusiast  
 📍 Based in Chennai | 🚀 Passionate about building real-world solutions
 
 ---
@@ -12,8 +12,9 @@
 ---
 
 ## 📈 Currently Learning
-- Machine Learning
+- SQL for Data Analysis
 - Python DSA for problem solving
+- 
 
 ---
 
