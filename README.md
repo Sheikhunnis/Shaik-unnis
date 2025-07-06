@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shaik Unnis
 
 🎓 B.Tech Final Year Student | 💻 Python & ML Enthusiast  
-📍 Based in Chennai | 🚀 Passionate about building real-world solutions
+📍 Based in Chennai | 🚀 Passionate about building real-world solutions 
 
 ---
 
