@@ -14,12 +14,12 @@
 ## 📈 Currently Learning
 - SQL for Data Analysis
 - Python DSA for problem solving
-- 
-
+  
 ---
 
 ## 📂 Projects
-- 🧠 Stock Price Predictor using LSTM  
+- 🧠 Stock Price Predictor using LSTM
+- Simple Calculator
 - 📌 Check more in my [repositories]
 
 ---
