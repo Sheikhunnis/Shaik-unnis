@@ -30,4 +30,4 @@
 
 ---
 
-> **Fun Fact:** I'm currently strengthening my skills through structured courses and exploring frameworks like TensorFlow.
+🌟 Motivation: Every line of code I write brings me one step closer to creating meaningful, real-world impact.
