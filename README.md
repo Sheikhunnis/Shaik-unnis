@@ -10,7 +10,7 @@
 Python, C, SQL, Pandas, NumPy, Matplotlib, Seaborn
 
 🤖 Machine Learning & Frameworks:
-Scikit-learn, TensorFlow (basics), Jupyter Notebook
+Scikit-learn, TensorFlow (basics), VS Code
 
 📊 Data Visualization & BI Tools:
 Power BI, Excel
